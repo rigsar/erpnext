@@ -6,5 +6,5 @@ from __future__ import unicode_literals
 import frappe
 from frappe.model.document import Document
 
-class TRTruckReceipt(Document):
+class TR_TruckReceipt(Document):
 	pass

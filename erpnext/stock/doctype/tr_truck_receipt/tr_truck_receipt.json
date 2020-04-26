@@ -1509,7 +1509,7 @@
  "modified": "2020-04-21 19:49:15.340325", 
  "modified_by": "Administrator", 
  "module": "Stock", 
- "name": "TR Truck Receipt", 
+ "name": "TR_Truck Receipt", 
  "name_case": "", 
  "owner": "Administrator", 
  "permissions": [
